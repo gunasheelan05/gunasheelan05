@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Full Stack Developers are the 'Swiss Army Knives' of the tech world. They're proficient not only in both frontend and backend technologies but also handle databases, servers, APIs, and even deployment. It's like having a superhero who can both design the costume and write the code to power it – a true one-stop-shop for building digital wonders!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://codepen.io/gunasheelan24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gunasheelan24" height="30" width="40" /></a>
 <a href="https://twitter.com/gunasheelan arullchelvan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gunasheelan arullchelvan" height="30" width="40" /></a>
